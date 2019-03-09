@@ -23,9 +23,9 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
-     - git-web-portfolio
+    # - git-web-portfolio
 
 # social_media:
   # behance: your_username
