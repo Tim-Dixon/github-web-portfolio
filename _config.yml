@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    # - git-web-portfolio
+     - git-web-portfolio
 
 # social_media:
   # behance: your_username
